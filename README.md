@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 - 🎓 MCA graduate with a passion for coding and problem-solving.
-<!-- - 💻 Experienced in Flask and Django web frameworks. -->
 - 🌱 Eager to deepen my skills and explore new technologies.
 - 🚧 Currently working on personal coding projects.
+<!-- - 💻 Experienced in Flask and Django web frameworks. -->
+
 
 
 ## 🔧 Technologies & Tools
