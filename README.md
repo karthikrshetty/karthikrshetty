@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 <h3> I am Karthik R Shetty. </h3>
-<br>
 <img align="right" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="300" width="300">
 
 ## 🚀 About Me
