@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="300" width="300">
 
 ## 🚀 About Me
-- 🎓 MCA graduate with a passion for coding and problem-solving.
 - 🌱 Eager to deepen my skills and explore new technologies.
 - 🚧 Currently working on personal coding projects.
 <!-- - 💻 Experienced in Flask and Django web frameworks. -->
