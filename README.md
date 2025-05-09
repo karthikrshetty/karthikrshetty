@@ -32,8 +32,8 @@ I’m working as an **Azure Data Engineer** at **IBM**, where I build and mainta
 
 ### 📈 Currently
 - Exploring advanced cloud data architecture patterns  
-- Building personal Django-based web apps to sharpen backend skills  
-- Preparing for next-level SDE and data engineering roles  
+- Building personal to sharpen my skills  
+- Preparing for next-level data engineering roles  
 
 ---
 
