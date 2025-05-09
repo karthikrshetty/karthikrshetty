@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Karthik R Shetty  
 **Azure Data Engineer | Python & Cloud Enthusiast**
-
-<img align="right" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="260" width="260">
-
 ---
 
 ### 💼 Current Role
